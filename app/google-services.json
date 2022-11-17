@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106854890473",
+    "firebase_url": "https://amulet-11c84-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "amulet-11c84",
+    "storage_bucket": "amulet-11c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106854890473:android:0a23b1159e6e651cbea978",
+        "android_client_info": {
+          "package_name": "com.example.amuletshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106854890473-p0rafqq3rj7nmv4vnrdm5rjg7sa56t0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPYvZzwwrL7AXiTz8dian3LRPnkeRnE9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106854890473-p0rafqq3rj7nmv4vnrdm5rjg7sa56t0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
